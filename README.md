@@ -1,6 +1,6 @@
 # QUB3D
 
-QUB3D-Android is a visually engaging and challenging 3D puzzle game designed for Android devices, developed using the Unity engine. This repository includes all the necessary files and resources to build, run, and modify the game. Players navigate through levels, solving puzzles by strategically placing blocks.
+QUB3D is a visually engaging and challenging 3D puzzle game designed for Android devices, developed using the Unity engine. This repository includes all the necessary files and resources to build, run, and modify the game. Players navigate through levels, solving puzzles by strategically placing blocks. The game has integrated Google services including Ads and Play services using Google plugins
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,7 +21,7 @@ QUB3D-Android is a visually engaging and challenging 3D puzzle game designed for
 
 ## Introduction
 
-QUB3D-Android is an addictive 3D puzzle game where players must strategically place blocks to clear levels. The game is built with Unity, offering a seamless and immersive experience for Android users.
+QUB3D is an addictive 3D puzzle game where players must strategically place blocks to clear levels. The game is built with Unity, offering a seamless and immersive experience for Android users.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Game%20Screenshot/Q1.png" alt="Game Screenshot 1" style="width: 32%;">
